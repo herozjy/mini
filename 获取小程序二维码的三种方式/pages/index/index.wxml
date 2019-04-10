@@ -1,0 +1,8 @@
+<view>
+<view>testImage_API_A</view>
+  <image src='{{testImage_API_A}}'></image>
+<view>testImage_API_B</view>
+  <image src='{{testImage_API_B}}'></image>
+<view>testImage_API_C</view>
+  <image src='{{testImage_API_C}}'></image>
+</view>
